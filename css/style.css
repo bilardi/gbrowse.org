@@ -1,0 +1,48 @@
+body {
+        color:#656263;
+        font-size:xx-large;
+        font-weight:bold;
+}
+a {
+        color:#3871c2;
+        text-decoration: none;
+}
+a:visited {
+        color:#3871c2;
+}
+a:hover, .hover {
+        color:#656263;
+}
+#wrapper {
+        margin: 20px auto;
+        width: 600px;
+}
+#logo {
+        float:left;
+}
+#logo img {
+        border: none;
+}
+#title {
+            font-size:xxx-large;
+}
+#list {
+        float:left;
+        text-align: right;
+}
+#list li {
+        list-style: none;
+}
+#survey {
+        float:left;
+        text-align: left;
+}
+#survey table,p {
+        font-size: small;
+}
+table {
+        margin-top: 10px;
+        border-style: ridge;
+        border-width: 2px;
+        border-color: gray;
+}
